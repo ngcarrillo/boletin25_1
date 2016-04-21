@@ -2,7 +2,7 @@
 
 /**
  *
- * @author ngarciacarrillo
+ * @author ngarciacarrillo.
  */
 public class boletin24_1 extends javax.swing.JFrame {
 
